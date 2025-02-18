@@ -22,4 +22,4 @@ _Below is an example of how you can set up the model._
 3. Run the Jupyter notebook (loan_prediction_genai.ipynb) in Google Colab
 
 ### Modifications to Existing Models
-The previous version used Machine Learning algorithms (Random Forest, Decision Tree, and Linear Regression). This version replaces those with Generative AI to predict loan defaults based on textual prompts.
+The previous version (main.ipynb) used Machine Learning algorithms (Random Forest, Decision Tree, and Linear Regression). This version replaces those with Generative AI to predict loan defaults based on textual prompts.
